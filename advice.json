@@ -1,0 +1,14 @@
+{
+  "Early Blight": {
+    "English": "Early blight is a fungal disease that affects tomato leaves, causing dark spots with concentric rings. It thrives in warm, humid conditions. To manage it, remove affected leaves, improve air circulation, and apply a copper-based fungicide if needed.",
+    "Hindi": "प्रारम्भिक दाग एक fungal रोग है जो टमाटर के पत्तों को प्रभावित करता है, जिसके कारण पत्तियों पर अंधेरे धब्बे बनते हैं जो concentric rings के साथ होते हैं। यह गर्म और आर्द्र स्थितियों में अधिक प्रकोप करता है। प्रबंधन के लिए प्रभावित पत्तियों को हटाएँ, हवा के प्रवाह को बेहतर करें, और आवश्यक होने पर तांबे-आधारित फंगिसाइड लगाएँ।"
+  },
+  "Late Blight": {
+    "English": "Late blight is a serious fungal-like disease that can rapidly destroy tomato crops. Symptoms include water-soaked lesions that turn brown and spread quickly. Prompt removal of infected plant material and application of fungicides are critical.",
+    "Hindi": "लेट ब्लाइट एक गंभीर fungal-like रोग है जो टमाटर की फसल को जल्दी नष्ट कर सकता है। लक्षणों में पानी-पदार्थ युक्त घाव होते हैं जो तेजी से भरे-भरे होते हैं और बाद में भूरे रंग के हो जाते हैं। संक्रमित पौधे के सामग्री को तुरंत हटाना और फंगिसाइड के लागू करना महत्वपूर्ण है।"
+  },
+  "Healthy": {
+    "English": "The plant appears healthy with no visible signs of disease. Continue regular monitoring and good agricultural practices.",
+    "Hindi": "पौधा स्वस्थ प्रतीत हो रहा है और कोई रोग के लक्षण नहीं दिख रहे हैं। नियमित निगरानी और अच्छी कृषि प्रथाओं को जारी रखें।"
+  }
+}
