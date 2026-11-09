@@ -61,4 +61,4 @@ We use the pretrained `LourivalGontijo/plantvillage-mobilenetv2` model from Hugg
 
 ## License
 
-MIT License.
+MIT License.# cropcare-ai
